@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Pratush Rai
+- 👋 Hi, I’m Pratush Rai 😀
 - 👀 I’m interested in Python, Backend Development, Javascript, Typescript, Firebase, React
-- 📫 How to reach me on twitter : https://twitter.com/PratushRai
-- E-Mail : pratushrai0309@gmail.com
-
+- 📫 E-Mail : pratushrai0309@gmail.com
+- You can follow me on:
+- 
+- Twitter: https://twitter.com/PratushRai
+- Github: https://github.com/pratushrai0309/
 
 ![daftpunktocat-thomas](https://user-images.githubusercontent.com/46784707/164881143-93130a26-58cf-43be-bd00-3eecab8c5f0d.gif)
 
