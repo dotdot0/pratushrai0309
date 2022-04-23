@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratush Rai
-- 👀 I’m interested in Python, Backend Development
+- 👀 I’m interested in Python, Backend Development, Javascript, Typescript, Firebase, React
 - 📫 How to reach me on twitter : https://twitter.com/PratushRai
 - E-Mail : pratushrai0309@gmail.com
 
