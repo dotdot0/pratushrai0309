@@ -1,10 +1,14 @@
 - 👋 Hi, I’m Pratush Rai 😀
 - 👀 I’m interested in Python, Backend Development, Javascript, Typescript, Firebase, React
 - 📫 E-Mail : pratushrai0309@gmail.com
-- You can follow me on:
-- 
-- Twitter: https://twitter.com/PratushRai
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/PratushRai)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pratush-rai-012752186/)
+
+
 - Github: https://github.com/pratushrai0309/
+
+[![Pratush GitHub stats](https://github-readme-stats.vercel.app/api?username=pratushrai0309&show_icons=true&theme=radical)](https://github.com/pratushrai0309/github-readme-stats)
+
 
 ![daftpunktocat-thomas](https://user-images.githubusercontent.com/46784707/164881143-93130a26-58cf-43be-bd00-3eecab8c5f0d.gif)
 
