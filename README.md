@@ -3,7 +3,7 @@
 I'm interested in Backend Development,
 Working on my Frontend Skills ,
 Mostly work with Javascript and Python,
-Learning React,Little Bit Of Machine Learning
+Learning React and Little Bit Of Machine Learning
 
 📫 E-Mail : pratushrai0309@gmail.com
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/PratushRai)
