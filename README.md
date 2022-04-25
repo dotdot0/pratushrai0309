@@ -1,6 +1,6 @@
 👋 Hi, I’m Pratush Rai 😀 👋
 
-I interested in Backend Development,
+I'm interested in Backend Development,
 Working on my Frontend Skills ,
 Mostly work with Javascript and Python,
 Learning React,Little Bit Of Machine Learning
