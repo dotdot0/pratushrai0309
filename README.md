@@ -16,7 +16,8 @@ Github: https://github.com/pratushrai0309/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratushrai0309&layout=compact&show_icons=true&theme=radical)](https://github.com/pratushrai0309/github-readme-stats)
 
-![daftpunktocat-thomas](https://user-images.githubusercontent.com/46784707/164881143-93130a26-58cf-43be-bd00-3eecab8c5f0d.gif)
+![gophercises_jumping](https://user-images.githubusercontent.com/46784707/165553246-2d430fe8-e533-4237-82d7-aa7c910ca24f.gif)
+
 
 <!---
 pratushrai0309/pratushrai0309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
