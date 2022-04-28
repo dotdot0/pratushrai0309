@@ -1,4 +1,4 @@
-👋 Hi, I’m Pratush Rai 😀 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Pratush!](https://github.com/pratushrai0309/) 
 
 I'm interested in Backend Development,
 Working on my Frontend Skills ,
@@ -10,7 +10,7 @@ Learning React and Little Bit Of Machine Learning
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pratush-rai-012752186/)
 
 
-Github: https://github.com/pratushrai0309/
+
 
 [![Pratush GitHub stats](https://github-readme-stats.vercel.app/api?username=pratushrai0309&show_icons=true&theme=radical)](https://github.com/pratushrai0309/github-readme-stats)
 
