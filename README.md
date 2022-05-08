@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Pratush!](https://github.com/pratushrai0309/) 
+![Snap (2)](https://user-images.githubusercontent.com/46784707/167305728-fd8a2fb0-b2a0-4fda-ba69-d20ae5391419.png)
 
 I'm interested in Backend Development,
 Working on my Frontend Skills ,
