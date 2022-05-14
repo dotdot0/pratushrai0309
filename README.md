@@ -11,9 +11,6 @@ Learning React and Little Bit Of Machine Learning
 
 
 
-
-[![Pratush GitHub stats](https://github-readme-stats.vercel.app/api?username=pratushrai0309&show_icons=true&theme=radical)](https://github.com/pratushrai0309/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratushrai0309&layout=compact&show_icons=true&theme=radical)](https://github.com/pratushrai0309/github-readme-stats)
 
 ![gophercises_jumping](https://user-images.githubusercontent.com/46784707/165553246-2d430fe8-e533-4237-82d7-aa7c910ca24f.gif)
