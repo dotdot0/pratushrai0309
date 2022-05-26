@@ -1,4 +1,5 @@
-![Snap (2)](https://user-images.githubusercontent.com/46784707/167305728-fd8a2fb0-b2a0-4fda-ba69-d20ae5391419.png)
+![Snap](https://user-images.githubusercontent.com/46784707/170510770-b81ee87c-59c6-4d5a-bd35-6accd282a11f.png)
+
 
 I'm interested in Backend Development,
 Working on my Frontend Skills ,
