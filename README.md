@@ -24,10 +24,15 @@
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-### Github Stats:
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratushrai0309&theme=vue)
-![contribution](https://github-readme-stats.vercel.app/api?username=pratushrai0309)
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=pratushrai0309)
+<details align="left">
+  <summary>Github Stats:</summary>
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratushrai0309&theme=vue">
+  <br/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=pratushrai0309">
+  <br/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pratushrai0309">
+  
+  </details>
 
 <h4> <b> Connect with me </b> </h4>
 📫 E-Mail : pratushrai0309@gmail.com
