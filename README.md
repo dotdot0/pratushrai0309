@@ -39,7 +39,7 @@
 
 <h4> <b> Connect with me </b> </h4>
 📫 E-Mail : pratushrai0309@gmail.com
-<a href = "https://twitter.com/PratushRai"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href = "https://twitter.com/PratushRai" target= "_blank"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   </div>
 <!---
 pratushrai0309/pratushrai0309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
