@@ -1,8 +1,6 @@
 
 <div align = "center">
 <img src="https://user-images.githubusercontent.com/46784707/205305436-73ba67c9-f774-4f99-9f0f-183b25a788ed.png" alt="" style="width:500px;"/>
-<div align = "center">
-<img src="https://user-images.githubusercontent.com/46784707/205305436-73ba67c9-f774-4f99-9f0f-183b25a788ed.png" alt="" style="width:500px;"/>
 
   
 <h3 align="left">Languages and Tools:</h3>
